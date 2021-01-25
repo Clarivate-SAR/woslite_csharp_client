@@ -128,3 +128,6 @@ Class | Method | HTTP request | Description
 - **API key parameter name**: X-ApiKey
 - **Location**: HTTP header
 
+## Licence
+MIT
+
